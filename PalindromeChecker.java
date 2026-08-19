@@ -2,7 +2,7 @@ public class PalindromeChecker {
 
     public static void main(String[] args) {
 
-        String word = "madam";
+        String word = "hello";
         String reversed = "";
 
         for (int i = word.length() - 1; i >= 0; i--) {
